@@ -25,3 +25,9 @@ Este proyecto fue creado con fines de aprendizaje, por lo que aún puede contene
 
 ## 📜 Licencia
 - **MIT LICENCE**
+
+## 🖼️ Imagenes del Juego
+
+![Captura del juego](assets/screenshots/PlataformGame.png)
+
+![Captura del juego](assets/screenshots/PlataformGame2.png)
